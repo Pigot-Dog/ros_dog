@@ -1,0 +1,8 @@
+prefix=/home/maxingpei/dog/pigot_project/devel
+
+Name: mbot_navigation
+Description: Description of mbot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maxingpei/dog/pigot_project/devel/lib 
+Requires: 

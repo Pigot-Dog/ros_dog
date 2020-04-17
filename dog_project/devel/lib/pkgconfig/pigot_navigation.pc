@@ -1,0 +1,8 @@
+prefix=/home/maxingpei/dog/pigot_project/devel
+
+Name: pigot_navigation
+Description: Description of pigot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maxingpei/dog/pigot_project/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+pigot_moveit_config:pigot_navigation:pigot_stl_model
+-DCATKIN_DEVEL_PREFIX=/home/maxingpei/dog/pigot_project/devel -DCMAKE_INSTALL_PREFIX=/home/maxingpei/dog/pigot_project/install -G Unix Makefiles
